@@ -1,3 +1,108 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* 🌑 Fondo general */
+body {
+    background-color: #0a0a0a;
+    color: #d6d6d6;
+    font-family: "Courier New", monospace;
+}
+
+/* 📄 Contenedor principal */
+.page {
+    background: rgba(10, 10, 10, 0.95);
+    border: 1px solid #222;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
+
+/* 🧾 Títulos */
+h1,
+h2,
+h3 {
+    color: #e8e6e3;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* 🔗 Links */
+a {
+    color: #7aa2ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #a8c5ff;
+    text-shadow: 0 0 5px rgba(122, 162, 255, 0.5);
+}
+
+/* ⚠️ Bloques tipo advertencia */
+blockquote {
+    border-left: 3px solid #aa0000;
+    padding-left: 1rem;
+    color: #ffcccc;
+    background: rgba(40, 0, 0, 0.3);
+}
+
+/* 🧠 Texto censurado */
+.censored {
+    background: #111;
+    color: #111;
+    padding: 2px 6px;
+    border: 1px solid #333;
+}
+
+.censored:hover {
+    color: #999;
+}
+
+/* 💻 Estilo terminal */
+code,
+pre {
+    background: #050505;
+    color: #00ff9c;
+    border: 1px solid #003322;
+    padding: 4px 6px;
+}
+
+/* 🧾 Scrollbar (detalle pro) */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #222;
+}
+
+/* 🕯️ Efecto glitch leve */
+@keyframes flicker {
+    0% {
+        opacity: 0.95;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0.92;
+    }
+}
+
+body {
+    animation: flicker 3s infinite;
+}
+
+/* 🔒 Clasificación tipo gobierno */
+.classified {
+    border: 1px solid #aa0000;
+    padding: 10px;
+    background: rgba(60, 0, 0, 0.2);
+    color: #ff4d4d;
+    font-weight: bold;
+}
+
+/* 🧬 Separadores estilo archivo */
+hr {
+    border: none;
+    border-top: 1px dashed #444;
+}
