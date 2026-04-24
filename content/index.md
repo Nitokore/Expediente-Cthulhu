@@ -41,7 +41,8 @@ No se recomienda continuar.
 --[[Accesos de locura fobias y manías]]
 
 ### 🧬 Entidades
-
+--[[Híbridos de profundo]]
+--[[Jaramugos]]
 
 ### 🧾 Documentos
 
@@ -68,3 +69,6 @@ Si detecta inconsistencias:
 
 ## 🧠 Estado del lector
 
+- Estabilidad cognitiva: ██░░░░░░░  
+- Nivel de exposición: ALTO  
+- Riesgo de contaminación: PRESENTE  
