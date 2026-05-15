@@ -35,7 +35,6 @@ No se recomienda continuar.
 ### 🧑‍💼 Investigadores
 
 ### 📍 Localizaciones
---[[El faro sin luz]]
 
 ### 📁 Incidentes
 --[[Accesos de locura fobias y manías]]
@@ -45,7 +44,8 @@ No se recomienda continuar.
 --[[Jaramugos]]
 
 ### 🧾 Documentos
-
+    --[[El faro sin luz]]
+    --[[Preludio 1]]
 ---
 
 ## ⚠️ Advertencia
