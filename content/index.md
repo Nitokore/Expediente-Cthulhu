@@ -31,7 +31,8 @@ No se recomienda continuar.
 ---
 
 ## 🔎 Secciones del expediente
-
+--[[El faro sin luz]]
+--[[Preludio 1]]
 ### 🧑‍💼 Investigadores
 
 ### 📍 Localizaciones
@@ -44,8 +45,7 @@ No se recomienda continuar.
 --[[Jaramugos]]
 
 ### 🧾 Documentos
-    --[[El faro sin luz]]
-    --[[Preludio 1]]
+   
 ---
 
 ## ⚠️ Advertencia
